@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "277273124275",
+    "firebase_url": "https://seg2105-project1-default-rtdb.firebaseio.com",
+    "project_id": "seg2105-project1",
+    "storage_bucket": "seg2105-project1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277273124275:android:0c9161875936ec95863fc6",
+        "android_client_info": {
+          "package_name": "com.example.booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277273124275-1o4rj4d6ef264vkh5k34rlcevd5htfpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_H74YUH-YFf3dvfj6FN18zZXkL01VDWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277273124275-1o4rj4d6ef264vkh5k34rlcevd5htfpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277273124275:android:a43b6db6463998fa863fc6",
+        "android_client_info": {
+          "package_name": "com.example.meal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277273124275-1o4rj4d6ef264vkh5k34rlcevd5htfpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_H74YUH-YFf3dvfj6FN18zZXkL01VDWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277273124275-1o4rj4d6ef264vkh5k34rlcevd5htfpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
